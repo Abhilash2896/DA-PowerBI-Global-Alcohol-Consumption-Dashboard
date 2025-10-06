@@ -32,6 +32,13 @@ Comparative analysis between beverage categories.
 
 Power BI Desktop
 
+Microsoft Excel
+
+Data Cleaning
+
+Data Visualization 
+
+
 Data Source: Kaggle
 
 Visualization Types: Map, Line Chart, Bar Chart, KPI, Slicer
